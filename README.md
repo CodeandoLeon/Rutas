@@ -11,9 +11,13 @@ Proyecto de rutas urbanas de León
 Herramienta tecnológica que ayude a saber horarios, rutas, vias y operadores para trasladarse en la ciudad.
 
 # Caracteristicas
-Es gratis!!!!!!
-Aplicación en tiempo real.
-Fácil uso.
+- Es gratis!!!!!!
+- Aplicación en tiempo real
+- Fácil uso
+- Aplicación colababorativa
+- Integración con redes sociales
+- Calculas los tiempos de trayecto
+- Te enva una notificaión cuando estas por llegar a tu destino-
 
 # Contacto y contribución
 Si quieres una nueva caracteristica crea un Pull request.

@@ -21,10 +21,14 @@ Herramienta tecnológica que ayude a saber horarios, rutas, vias y operadores pa
 - Registro de usuarios.
 - Comentarios de incidencias, trafico, cambios de rutas etc,. por parte de los usuarios.
 - Horarios de operación.
-- Calificación de operadores de cada ruta.
+- Calificación de operadores de cada ruta, servicio y estado del camión.
 - Geolocalización del usuario para indentificar la mejor ruta o el paradero mas cercano.
 - Tiempo aproximado de llegada del camión.
-- Centros de informacioón y atención al usuario. (
+- Centros de información y atención al usuario. (Terminales).
+- Mapas offline.
+- Guardar rutas recurrentes.
+- Especificar el sentido de las rutas.
+- Calificar comentarios. (Útil, poco útil, etc.)
 
 # Contacto y contribución
 Si quieres una nueva caracteristica crea un Pull request.
